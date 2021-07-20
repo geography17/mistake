@@ -1,7 +1,22 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Project"
+    url:
+  - title: "GIS & RS" 
+    sublinks:
+    - title: "GIS"
+      url: 
+    - title: "RS"
+      url: 
+  - title: "R & Python" 
+    sublinks:
+    - title: "R"
+      url: 
+    - title: "Python"
+      url: 
+  - title: "About"
+    url: 
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
